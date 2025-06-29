@@ -1,6 +1,4 @@
-Here’s a neat, clean, and powerful README.md to showcase your Task Scheduler CLI project on GitHub:
 
-````markdown
 # Task Scheduler CLI
 
 A lightweight, multithreaded command-line tool built in Java to schedule and execute tasks after delays or at intervals. Includes dynamic task creation, editing, and deletion, demonstrating low-level system control and efficient time-based logic.
@@ -96,8 +94,3 @@ Made with 🚀 for efficient task scheduling and innovation.
 
 ```
 
----
-
-You can copy-paste this into `README.md` at your repo root.  
-Ready to commit & push it?
-```
